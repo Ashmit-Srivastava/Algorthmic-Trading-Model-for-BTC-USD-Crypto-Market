@@ -52,10 +52,6 @@ The model is trained using the training set, and the training process is optimiz
 
 The trained model is backtested on historical data to simulate its performance in a real trading scenario. Buy/sell signals are generated based on predicted price changes, and the portfolio value is calculated.
 
-### Risk Management
-
-The model includes risk management strategies to control trading positions and mitigate potential losses.
-
 ## Results and Metrics
 
 The project evaluates the model's performance using various metrics, including gross profit, net profit, win rate, max drawdown, and more.
